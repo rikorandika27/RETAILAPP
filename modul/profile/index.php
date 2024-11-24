@@ -169,11 +169,7 @@
 
         <div class="profile-bio">
             <h2>Bio</h2>
-            <p>Halo! Saya seorang profesional yang bersemangat dalam dunia retail, dengan pengalaman yang mendalam dalam
-                menyediakan produk berkualitas untuk setiap pelanggan. Sebagai admin yang selalu siap membantu, saya
-                pastikan setiap transaksi berjalan lancar dan memuaskan. Di balik setiap produk, ada komitmen kuat untuk
-                memberikan pengalaman terbaik, karena bagi saya, kepuasan pelanggan adalah prioritas utama. Terima kasih
-                telah mempercayakan kami sebagai pilihan Anda. Mari terus berkembang bersama!</p>
+            <p>Pengguna ini belum membuat bio apapun!</p>
         </div>
     </div>
 
